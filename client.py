@@ -3,7 +3,7 @@ import traceback
 import json
 import sys
 
-URL = "PUT SECRET URL HERE"
+URL = "http://54.156.198.235:3333"
 
 def help():
   print("This file exposes three functions: avg(...), count(...), and count0(...).")
